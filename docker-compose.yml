@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    image: abrashkin-yaroslav-devops
+    container_name: abrashkin-yaroslav-container
+    ports:
+      - "8000:8000"
+    environment:
+      STUDENT_NAME: Yaroslav
+      STUDENT_SURNAME: Abrashkin
+      STUDENT_GROUP: IT2-2304
+      STUDENT_ID: "37035"
