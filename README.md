@@ -5,3 +5,7 @@ Surname: Abrashkin
 Group: IT2-2304
 Student ID: 37035
 Course: DevOps
+
+## Project Components
+- Linux system information script
+- Python student application
