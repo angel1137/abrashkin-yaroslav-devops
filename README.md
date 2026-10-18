@@ -1,0 +1,7 @@
+# DevOps Laboratory Project
+
+Name: Yaroslav
+Surname: Abrashkin
+Group: IT2-2304
+Student ID: 37035
+Course: DevOps
